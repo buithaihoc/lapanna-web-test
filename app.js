@@ -695,7 +695,7 @@ async function handleOrderSubmit(e) {
     };
 
     // URL Web App Google Apps Script
-    const GOOGLE_SHEET_URL = 'https://script.google.com/macros/s/AKfycbwMz4WD9Xx4L9dd2wV6SrHNsgbTh0xGDrJ_YBiYznSpO3px5B_4U6bRj1iXoQ0fyUv8/exec';
+    const GOOGLE_SHEET_URL = 'https://script.google.com/macros/s/AKfycbwMFPZsuK6BTkGDBuLBvoT13v4vBXEr-4CJEoeddYpayZhWMwJYNUqy6w00jeZINGqPeQ/exec';
 
     try {
         if (!GOOGLE_SHEET_URL || GOOGLE_SHEET_URL === 'YOUR_GOOGLE_WEB_APP_URL_HERE') {
